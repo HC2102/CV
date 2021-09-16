@@ -1,0 +1,98 @@
+.top {
+  background-color: #F9F3DF;
+  margin-top: 0;
+  margin-right: 0;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #FDFCE5;
+}
+.bottom-container{
+  margin-top:10px;
+  background-color: #D7E9F7;
+  padding-top: 10px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Glory', sans-serif;
+  font-size:1rem;
+  background-color:  #FDFCE5;
+}
+
+h1 {
+  width: 50%;
+  font-size: 5.26rem;
+  margin: 0 auto;
+  font-family: 'Satisfy', cursive;
+  position: relative;
+  bottom: 55px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  margin: 15px auto 5px auto;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+}
+p
+{
+  margin: 0 auto 15px auto;
+}
+hr
+{
+  border-width: 5px 0 0 0;
+  border-top-style: dotted;
+  height:0;
+  width:10%;
+  border-color: gray;
+}
+
+.sub{
+  font-size:2rem;
+  margin-bottom:0;
+  position: relative;
+  bottom: 60px;
+}
+.botSub{
+  margin:0 auto 0 auto;
+}
+.topCloud {
+  position: absolute;
+  right: 200px;
+  top: 2px;
+}
+
+.botCloud {
+  position: absolute;
+  top: 150px;
+  left: 250px;
+}
+.code
+{
+  width: 13%;
+  height:auto;
+}
+.hobby
+{
+  width: 13%;
+  height:auto;
+}
+.personal
+{
+  margin-top:17px;
+  width:13%;
+  height:auto;
+}
+.hill
+{
+  width:45%;
+  height:auto;
+  position: relative;
+  bottom: 50px;
+}
